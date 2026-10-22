@@ -21,7 +21,7 @@ export async function SiteHeader({ locale }: { locale: string }) {
     <div className="flex items-center justify-between gap-4">
       <Link href={localizeHref("/", locale)} className="flex items-center gap-3">
         <div className="relative h-9 w-9 overflow-hidden rounded-xl border border-border bg-muted shadow-sm">
-          <img src="/images/logo.png" alt={siteConfig.name} className="h-full w-full object-cover" />
+          <span aria-hidden="true" className="grid h-full w-full place-items-center bg-[hsl(var(--nav-theme))] text-base font-black text-primary-foreground">{siteConfig.logoText}</span>
         </div>
         <span className="text-sm font-bold tracking-wide text-foreground">{siteConfig.name}</span>
       </Link>
@@ -75,7 +75,7 @@ export function TrailerCard({ videoId }: { videoId: string }) {
   return (
     <div className="group relative cursor-pointer overflow-hidden rounded-2xl border border-border shadow-lg transition-all duration-200">
       <div className="relative aspect-video w-full">
-        <img src={videoId ? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg` : "/images/hero.webp"} alt={siteConfig.name} className="size-full object-cover transition-all duration-200 group-hover:brightness-80" onError={(e) => { (e.target as HTMLImageElement).src = "/images/hero.webp"; }} />
+        <img src={videoId ? `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg` : "/images/hero-trailer-thumbnail.jpg"} alt={`${siteConfig.shortName} Gameplay Guide`} className="size-full object-cover transition-all duration-200 group-hover:brightness-80" onError={(e) => { const image = e.currentTarget; image.src = image.src.includes("maxresdefault") ? "/images/hero-trailer-thumbnail.jpg" : "/images/hero.webp"; }} />
       </div>
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="flex size-20 items-center justify-center rounded-full bg-primary/10 backdrop-blur-md transition-transform duration-200 group-hover:scale-105 sm:size-24">
