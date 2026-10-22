@@ -499,7 +499,10 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "The guide you are looking for may have moved or has not been added yet.",
+    "browseGuides": "Browse Guides"
   },
   "footer": {
     "aboutTitle": "Feed A Mosquito Wiki",

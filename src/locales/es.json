@@ -1,1 +1,526 @@
-{}
+{
+  "site": {
+    "name": "Feed A Mosquito Wiki",
+    "shortName": "Feed A Mosquito",
+    "tagline": "Códigos, jefes, huevos, armas y mejoras",
+    "description": "Tu guía completa de Feed A Mosquito en Roblox: consejos para principiantes, peleas contra jefes, huevos, armas, mejoras, códigos y progresión.",
+    "legalNotice": "Wiki de fans no oficial. No afiliado a Roblox o Be Diao VIII."
+  },
+  "nav": {
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "items": "Artículos",
+    "community": "Comunidad",
+    "videos": "Vídeos",
+    "menu": "Menú",
+    "toggleTheme": "Alternar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Feed A Mosquito Wiki - Códigos, Guía y Jefes",
+      "description": "Explora Feed A Mosquito Wiki para códigos del juego, consejos para principiantes, peleas contra jefes, huevos de mosquitos, armas, mejoras, estrategias de progresión y las últimas actualizaciones del juego en Roblox."
+    },
+    "hero": {
+      "eyebrow": "Simulador tycoon de mosquitos de Roblox",
+      "title": "Feed A Mosquito Wiki",
+      "description": "Feed A Mosquito es un simulador incremental de Roblox en el que luchas contra mosquitos jefes, recolectas huevos, alimentas a los mosquitos y mejoras tu base y tus armas para hacerte más fuerte.",
+      "stats": [
+        "Más de 10 millones de visitas totales",
+        "Pico de 26,9K CCU",
+        "Lanzamiento del 21 de agosto de 2026",
+        "16 de octubre de 2026 Actualizado"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía de mecánicas",
+      "tertiaryCta": "Jugar en Roblox",
+      "videoLabel": "Guía de juego"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Feed A Mosquito",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende la ruta de apertura en ocho pasos: llena la sangre, vence a un mosquito inicial, incuba un huevo, aliméntalo al 100 %, deposita el efectivo y compra el zapato."
+        },
+        {
+          "number": "2",
+          "title": "Progresión más rápida",
+          "description": "Avanza hacia objetivos de campo más fuertes con un orden claro de mejoras para armas, regeneración de vida y alimentación."
+        },
+        {
+          "number": "3",
+          "title": "Dinero rápido",
+          "description": "Crea un ciclo de efectivo más rápido depositando a menudo, completando cada alimentación y reinvirtiendo en la mejora que bloquea el progreso."
+        },
+        {
+          "number": "4",
+          "title": "Guía del primer jefe",
+          "description": "Prepara los niveles de vida y armas necesarios para el mosquito de campo de 2.000 HP, la ama de casa, Yeti y Fman."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Crecimiento de mosquitos",
+        "Orden de mejoras",
+        "Puertas de jefes"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "La ruta inicial de ocho pasos desde una base vacía hasta un mosquito completamente alimentado y la primera arma.",
+          "href": "/guide/feed-a-mosquito-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Recompensas y códigos",
+          "description": "Estado del código, pasos de canje y lugares donde aparecen nuevas recompensas.",
+          "href": "/items/feed-a-mosquito-rewards"
+        },
+        {
+          "badge": "Esencial",
+          "title": "Crecimiento de mosquitos",
+          "description": "Temporizadores de huevos, porcentajes de alimentación, cambios de tamaño y la tasa de pago de cada eclosión.",
+          "href": "/mechanics/feed-a-mosquito-mosquito-growth"
+        },
+        {
+          "badge": "Popular",
+          "title": "Orden de mejoras",
+          "description": "Precios de armas, niveles de estaciones de vida y el orden de compra que supera cada bloqueo.",
+          "href": "/items/feed-a-mosquito-upgrades-guide"
+        },
+        {
+          "badge": "Dinero",
+          "title": "Guía de dinero rápido",
+          "description": "Una rutina de efectivo repetible basada en alimentaciones completas, depósitos en el banco y reinversión inteligente.",
+          "href": "/progression/feed-a-mosquito-money-guide"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Eclosión de huevos",
+          "description": "Convierte cada larva caída en una fuente de ingresos con la rutina correcta de eclosión y alimentación.",
+          "href": "/progression/feed-a-mosquito-egg-hatching"
+        },
+        {
+          "badge": "Popular",
+          "title": "Jefes y puertas de vida",
+          "description": "Umbrales de vida y opciones de armas para las peleas contra la ama de casa, Yeti y Fman.",
+          "href": "/mechanics/feed-a-mosquito-giant-mosquito"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Últimas actualizaciones",
+          "description": "Los cambios de contenido V2 y V3 que afectan armas, zonas, PVP e ingresos offline.",
+          "href": "/community/feed-a-mosquito-latest-updates"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Feed A Mosquito?",
+      "paragraphs": [
+        "Feed A Mosquito es un juego de simulación y tycoon de Roblox creado por Be Diao VIII. Luchas contra mosquitos en el campo para conseguir larvas, incubas huevos en tu parcela y alimentas a cada mosquito con tu propia vida, que también funciona como sangre. Un mosquito completamente alimentado paga efectivo cada segundo, mientras que esa misma reserva de vida te mantiene con vida en los combates.",
+        "El efectivo compra armas más potentes y mejoras para las estaciones de vida, y cada nuevo nivel de arma desbloquea mosquitos más duros y mejores larvas. Alimentar a un mosquito cada vez hace que la regeneración de vida sea el principal límite de ingresos, así que el bucle central es simple: deposita el efectivo en el círculo verde, mejora el cuello de botella actual y alimenta a cada nueva cría hasta el 100 %."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Be Diao VIII"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Simulación / Magnate"
+        },
+        {
+          "label": "Visitas",
+          "value": "10 millones+"
+        },
+        {
+          "label": "Pico CCU",
+          "value": "26,9K"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "21 de agosto de 2026"
+        },
+        {
+          "label": "Actualizado",
+          "value": "16 de octubre de 2026"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora Feed A Mosquito Wiki",
+      "description": "Construye tu imperio de mosquitos con rutas para principiantes, eclosión de huevos, mecánicas de alimentación, precios de armas, mejoras de base, puertas de vida de jefes y estrategias de dinero rápido.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Feed A Mosquito",
+          "description": "Sigue la ruta de la primera sesión desde una base vacía hasta un mosquito completamente alimentado, un depósito de efectivo y la primera mejora de arma.",
+          "href": "/guide/feed-a-mosquito-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Siéntate en el asiento de la base para recargar vida, el mismo recurso que usas como sangre."
+            },
+            {
+              "label": "2",
+              "detail": "Ataca a un mosquito del primer campo con la mano inicial hasta vaciar su barra de vida."
+            },
+            {
+              "label": "3",
+              "detail": "Recoge una larva caída; cualquier drop del primer campo es común."
+            },
+            {
+              "label": "4",
+              "detail": "Coloca el huevo en la parcela de la base y espera unos siete segundos a que se abra."
+            },
+            {
+              "label": "5",
+              "detail": "Alimenta al nuevo mosquito con tu sangre para aumentar su porcentaje de pago."
+            },
+            {
+              "label": "6",
+              "detail": "Camina sobre el círculo verde para depositar el efectivo que produjeron tus mosquitos."
+            },
+            {
+              "label": "7",
+              "detail": "Alimenta hasta el 100 % para desbloquear el máximo de efectivo por segundo del mosquito."
+            },
+            {
+              "label": "8",
+              "detail": "Compra el zapato de 5.000 de efectivo para convertir las muertes del primer campo en una ruta repetible."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Feed A Mosquito",
+          "description": "Consulta el estado actual de los códigos, descubre dónde aparecen nuevas recompensas y sigue la rutina de canje cuando se publique uno.",
+          "href": "/items/feed-a-mosquito-rewards",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "NINGUNO",
+              "detail": "Ahora mismo no hay códigos públicos activos para Feed A Mosquito."
+            },
+            {
+              "label": "ROBLOX",
+              "detail": "Abre la página oficial del juego en Roblox para ver anuncios de nuevos códigos."
+            },
+            {
+              "label": "ACTUALIZACIONES",
+              "detail": "Vuelve a comprobar después de una actualización de contenido, cuando se publican nuevos códigos."
+            },
+            {
+              "label": "CANJEAR",
+              "detail": "Copia el código exacto, ingrésalo en el campo de códigos del juego y envíalo una sola vez."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de crecimiento de mosquitos de Feed A Mosquito",
+          "description": "Entiende la rareza de los huevos, los tiempos de eclosión, los porcentajes de alimentación, el crecimiento y la tasa de efectivo de cada mosquito.",
+          "href": "/mechanics/feed-a-mosquito-mosquito-growth",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Común",
+              "detail": "Las larvas del primer campo eclosionan en unos siete segundos y forman la base de ingresos inicial."
+            },
+            {
+              "label": "Poco común",
+              "detail": "Una eclosión venenosa puede empezar cerca de 6 de efectivo por segundo antes de alimentarla."
+            },
+            {
+              "label": "Crecimiento",
+              "detail": "Alimentar empuja el pago hacia el 100 % y agranda visiblemente al mosquito."
+            },
+            {
+              "label": "Alimentación",
+              "detail": "Solo se alimenta un mosquito a la vez, así que la regeneración de vida limita tus ingresos."
+            },
+            {
+              "label": "Huevos",
+              "detail": "Las larvas más grandes tardan más en abrirse y pueden alcanzar techos de pago más altos."
+            },
+            {
+              "label": "Efectivo",
+              "detail": "Camina sobre el círculo verde para recoger el dinero que generan tus mosquitos."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de armas de Feed A Mosquito",
+          "description": "Compara los precios de las armas y los objetivos que desbloquea cada nivel, desde el zapato inicial hasta el matamoscas eléctrico y el spray de Robux.",
+          "href": "/items/feed-a-mosquito-upgrades-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Zapato",
+              "detail": "5.000 de efectivo. La primera arma comprable y un inicio más rápido en las muertes del primer campo."
+            },
+            {
+              "label": "Escoba",
+              "detail": "35.000 de efectivo. Daño suficiente para eliminar a un mosquito de campo de 2.000 HP."
+            },
+            {
+              "label": "Bate",
+              "detail": "150.000 de efectivo. Una mejora de nivel medio después de la escoba."
+            },
+            {
+              "label": "Sartén",
+              "detail": "500.000 de efectivo. El arma lista para jefes contra el mosquito ama de casa."
+            },
+            {
+              "label": "Matamoscas",
+              "detail": "El matamoscas eléctrico elimina de un golpe a los mosquitos normales y da efectivo."
+            },
+            {
+              "label": "Spray",
+              "detail": "1.000 Robux. 10.000.000 de daño para jefes como Yeti y Fman."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de jefes de Feed A Mosquito",
+          "description": "Planifica vida, armas y regeneración para los mosquitos iniciales, la puerta de 2.000 HP, la ama de casa y jefes tardíos como Yeti y Fman.",
+          "href": "/mechanics/feed-a-mosquito-mosquito-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Yeti y Fman: jefes con mucha vida que caen ante el spray de mosquitos de 1.000 Robux."
+            },
+            {
+              "label": "A",
+              "detail": "Mosquito ama de casa: alrededor de 500 de vida; lleva la sartén y un banco."
+            },
+            {
+              "label": "B",
+              "detail": "Mosquito de campo de 2.000 HP: supera la prueba de daño con la escoba y luego mejora la regeneración."
+            },
+            {
+              "label": "C",
+              "detail": "Mosquitos de campo iniciales: la mano inicial basta y cada muerte suelta una larva."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Mejoras de base de Feed A Mosquito",
+          "description": "Elige la siguiente mejora de estación de vida, parcela y alimentación encontrando el sistema que limita a tu mosquito que más paga.",
+          "href": "/items/feed-a-mosquito-upgrades-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Silla",
+              "detail": "La estación de vida inicial recarga la sangre que usas para alimentar y combatir."
+            },
+            {
+              "label": "Inodoro",
+              "detail": "El primer paso de regeneración de 15.000 de efectivo aumenta la recuperación de vida."
+            },
+            {
+              "label": "Banco",
+              "detail": "Un nivel de 40 de vida por segundo que permite sesiones de alimentación más largas."
+            },
+            {
+              "label": "Sofá",
+              "detail": "80 de vida por segundo facilita terminar a los mosquitos grandes."
+            },
+            {
+              "label": "Cama",
+              "detail": "Un paso de regeneración posterior que llega después del sofá."
+            },
+            {
+              "label": "Parcela",
+              "detail": "La expansión añade espacios para mosquitos cuando la parcela de la base se llena."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de dinero rápido de Feed A Mosquito",
+          "description": "Usa una rutina de efectivo repetible: deposita las ganancias, completa cada alimentación, compra la siguiente mejora que bloquea el progreso y reinvierte en armas más fuertes.",
+          "href": "/progression/feed-a-mosquito-money-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Deposita en el círculo verde antes de comprar; los mosquitos no ingresan el efectivo por ti."
+            },
+            {
+              "label": "2",
+              "detail": "Alimenta a cada nueva cría hasta el 100 % antes de empezar con otro mosquito."
+            },
+            {
+              "label": "3",
+              "detail": "Compra el zapato de 5.000 y luego la escoba de 35.000 cuando el daño bloquee el progreso."
+            },
+            {
+              "label": "4",
+              "detail": "Pasa al paso de la estación de vida de 15.000 cuando alimentar te consuma más rápido de lo que recuperas."
+            },
+            {
+              "label": "5",
+              "detail": "En una puerta de jefe, compra juntos el arma necesaria y el mejor nivel de regeneración."
+            },
+            {
+              "label": "6",
+              "detail": "En la meseta de 300.000 por segundo, pasa al matamoscas eléctrico y reserva el spray para los jefes."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de actualizaciones de Feed A Mosquito",
+          "description": "Sigue el contenido añadido en V2 y V3, incluidas armas, jefes, PVP, la zona espacial y las ganancias offline.",
+          "href": "/community/feed-a-mosquito-latest-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "V2",
+              "detail": "La actualización V2 añadió nuevas armas, un jefe y una zona PVP abierta."
+            },
+            {
+              "label": "V3",
+              "detail": "La actualización V3 añadió nuevas armas, una zona espacial y ganancias offline."
+            },
+            {
+              "label": "Espacio",
+              "detail": "La zona espacial amplía la progresión más allá del campo y la base iniciales."
+            },
+            {
+              "label": "Sin conexión",
+              "detail": "Las ganancias offline permiten que tus mosquitos sigan produciendo mientras no juegas."
+            },
+            {
+              "label": "Saldo",
+              "detail": "Vuelve a comprobar los precios de la tienda y el orden de mejoras después de un parche de balance."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Feed A Mosquito.",
+      "items": [
+        {
+          "question": "¿Qué es Feed A Mosquito?",
+          "answer": "Feed A Mosquito es un juego de simulación-magnate Roblox de Be Diao VIII. Luchas contra los mosquitos para obtener larvas, incubas huevos en tu base, alimentas a los mosquitos con tu propia salud y recolectas el dinero que generan cada segundo."
+        },
+        {
+          "question": "¿Cómo se gana dinero rápido en Feed A Mosquito?",
+          "answer": "En Feed A Mosquito, deposita el efectivo en el círculo verde, alimenta a cada mosquito nuevo hasta el 100 % y gasta el siguiente lote de efectivo en la mejora que bloquea a tu mosquito que más paga. Las armas abren objetivos más fuertes, mientras que los niveles de las estaciones de vida te permiten completar alimentaciones más grandes."
+        },
+        {
+          "question": "¿Cómo funcionan los huevos y el crecimiento de mosquitos en Feed A Mosquito?",
+          "answer": "Los huevos de Feed A Mosquito salen de las larvas que sueltan los mosquitos del campo. Coloca una larva en la parcela de tu base, espera unos siete segundos a que se abra un huevo común y alimenta al nuevo mosquito hasta el 100 %. Alimentarlo aumenta su pago y hace que el modelo se vea más grande."
+        },
+        {
+          "question": "¿Qué debo comprar primero en Feed A Mosquito?",
+          "answer": "Empieza con el zapato de 5.000 de efectivo y luego compra la escoba de 35.000 cuando un mosquito de campo de 2.000 HP bloquee el progreso. Pasa al paso de la estación de vida de 15.000 cuando alimentar te consuma la vida más rápido de lo que puedes recuperarla."
+        },
+        {
+          "question": "¿Feed A Mosquito tiene códigos?",
+          "answer": "Feed A Mosquito no tiene códigos públicos activos ahora mismo. Los nuevos códigos aparecen alrededor de las actualizaciones de contenido, así que revisa la página oficial del juego en Roblox y el menú del juego después de cada parche."
+        },
+        {
+          "question": "¿Cómo vences a los jefes en Feed A Mosquito?",
+          "answer": "Las peleas contra jefes en Feed A Mosquito combinan el daño de las armas con suficiente vida para sobrevivir al ciclo de alimentación y combate. Usa la escoba para el mosquito de campo de 2.000 HP, la sartén y un banco para la ama de casa de unas 500 de vida, y el spray de mosquitos de 1.000 Robux para Yeti y Fman."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Feed A Mosquito?",
+      "description": "Desde tu primera pelea contra un jefe hasta las mejoras de base del juego tardío, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Feed A Mosquito",
+    "overviewDescription": "Empieza con las guías para principiantes de Feed A Mosquito sobre recolección de sangre, eclosión de huevos, mejoras y el bucle central del juego."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Feed A Mosquito",
+    "overviewDescription": "Aprende cómo funcionan la alimentación con sangre, el crecimiento de mosquitos, la evolución, el robo de huevos y los sistemas de mejora en Feed A Mosquito."
+  },
+  "progression": {
+    "overviewTitle": "Progresión de Feed A Mosquito",
+    "overviewDescription": "Sigue las rutas de niveles, dinero, farming y nivel máximo de Feed A Mosquito para hacer crecer tu imperio de mosquitos más rápido."
+  },
+  "items": {
+    "overviewTitle": "Objetos de Feed A Mosquito",
+    "overviewDescription": "Entiende la sangre, los huevos, las recompensas y las mejoras de Feed A Mosquito y de dónde sale cada recurso."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Feed A Mosquito",
+    "overviewDescription": "Lee consejos de jugadores de Feed A Mosquito, debates de Reddit y las últimas notas de actualización de la comunidad."
+  },
+  "videos": {
+    "overviewTitle": "Vídeos de Feed A Mosquito",
+    "overviewDescription": "Mira gameplay de Feed A Mosquito, recorridos, rutas de farming de sangre y clips de mosquitos gigantes."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación Wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lectura relacionada",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!",
+    "notFoundTitle": "Página no encontrada",
+    "notFoundDescription": "Es posible que la guía que estás buscando se haya movido o aún no se haya agregado.",
+    "browseGuides": "Explorar guías"
+  },
+  "footer": {
+    "aboutTitle": "Feed A Mosquito Wiki",
+    "about": "Feed A Mosquito Wiki es un centro de guías independiente creado por fans que cubre peleas contra jefes, huevos de mosquitos, armas, mejoras de base y progresión tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Feed A Mosquito Wiki. No está afiliado a Roblox ni a Be Diao VIII.",
+    "description": "Simulador tycoon de mosquitos de Roblox: lucha contra jefes, recoge huevos, alimenta mosquitos y mejora tu base.",
+    "playGame": "Juega Feed A Mosquito en Roblox",
+    "officialDiscord": "Grupo oficial de Roblox",
+    "officialYoutube": "Vídeos de gameplay de Feed A Mosquito",
+    "vvBuilder": "Guías de Feed A Mosquito Wiki",
+    "beginnerGuide": "Guía para principiantes",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "items": "Artículos"
+  }
+}

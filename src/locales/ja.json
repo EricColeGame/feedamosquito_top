@@ -1,1 +1,526 @@
-{}
+{
+  "site": {
+    "name": "Feed A Mosquito Wiki",
+    "shortName": "Feed A Mosquito",
+    "tagline": "コード、ボス、卵、武器、アップグレード",
+    "description": "Robloxで遊べるFeed A Mosquitoの完全ガイド：初心者向けのヒント、ボス戦、卵、武器、アップグレード、コード、進行状況を解説します。",
+    "legalNotice": "非公式ファンwikiです。RobloxおよびBe Diao VIIIとは関係ありません。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "progression": "進行",
+    "items": "アイテム",
+    "community": "コミュニティ",
+    "videos": "動画",
+    "menu": "メニュー",
+    "toggleTheme": "テーマの切り替え"
+  },
+  "home": {
+    "meta": {
+      "title": "Feed A Mosquito Wiki - コード、ガイド、ボス",
+      "description": "Feed A Mosquito Wikiでは、ゲームコード、初心者向けのヒント、ボス戦、蚊の卵、武器、アップグレード、進行戦略、最新のRobloxアップデートを紹介しています。"
+    },
+    "hero": {
+      "eyebrow": "Roblox モスキート・タイクーン・シミュレーター",
+      "title": "Feed A Mosquito Wiki",
+      "description": "Feed A Mosquitoは、ボスの蚊と戦い、卵を集め、蚊に餌を与え、拠点と武器をアップグレードして強くなるRobloxのインクリメンタル・シミュレーターです。",
+      "stats": [
+        "総訪問数1,000万以上",
+        "ピークCCU 26.9K",
+        "2026年8月21日リリース",
+        "2026年10月16日更新"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "ゲームメカニクス",
+      "tertiaryCta": "Robloxでプレイ",
+      "videoLabel": "ゲームプレイガイド"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "Feed A Mosquitoの歩み",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "血液を補充し、最初の蚊を倒し、卵を孵化させ、100%まで給餌し、現金を預けて靴を買う、8ステップの序盤ルートを学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "最速の進行",
+          "description": "武器、体力回復、給餌の明確なアップグレード順で、より強いフィールドの敵を目指しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "ファストマネー",
+          "description": "こまめに預金し、毎回の給餌を完了し、進行を妨げるアップグレードに再投資して、より速い現金循環を作りましょう。"
+        },
+        {
+          "number": "4",
+          "title": "最初のボスガイド",
+          "description": "体力2,000のフィールド蚊、主婦、Yeti、Fmanに必要な体力と武器の段階を準備しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま人気",
+      "quickLinks": [
+        "初心者ガイド",
+        "蚊の成長",
+        "アップグレード順",
+        "ボスゲート"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "空の拠点から、十分に給餌した稼ぎ手と最初の武器に至る8ステップの序盤ルート。",
+          "href": "/guide/feed-a-mosquito-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "特典とコード",
+          "description": "コードのステータス、引き換え手順、新しい特典が表示される場所。",
+          "href": "/items/feed-a-mosquito-rewards"
+        },
+        {
+          "badge": "コア",
+          "title": "蚊の成長",
+          "description": "卵のタイマー、給餌率、サイズの変化、孵化ごとの支払いレート。",
+          "href": "/mechanics/feed-a-mosquito-mosquito-growth"
+        },
+        {
+          "badge": "人気",
+          "title": "アップグレード順",
+          "description": "武器の価格、体力ステーションの段階、各ブロックを突破する購入順。",
+          "href": "/items/feed-a-mosquito-upgrades-guide"
+        },
+        {
+          "badge": "マネー",
+          "title": "高速マネーガイド",
+          "description": "完全給餌、銀行への預金、賢い再投資を軸にした繰り返し可能な現金ルーティン。",
+          "href": "/progression/feed-a-mosquito-money-guide"
+        },
+        {
+          "badge": "メカニクス",
+          "title": "卵の孵化",
+          "description": "適切な孵化と給餌のルーティンで、落ちた幼虫をすべて拠点の稼ぎ手に変えましょう。",
+          "href": "/progression/feed-a-mosquito-egg-hatching"
+        },
+        {
+          "badge": "人気",
+          "title": "ボスと体力ゲート",
+          "description": "主婦、Yeti、Fmanとの戦いに必要な体力のしきい値と武器の選択。",
+          "href": "/mechanics/feed-a-mosquito-giant-mosquito"
+        },
+        {
+          "badge": "更新",
+          "title": "最新のアップデート",
+          "description": "武器、ゾーン、PVP、オフライン収入に影響するV2とV3のコンテンツ変更。",
+          "href": "/community/feed-a-mosquito-latest-updates"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Feed A Mosquitoとは？",
+      "paragraphs": [
+        "Feed A Mosquitoは、Be Diao VIIIによるRobloxのシミュレーション・タイクーンゲームです。フィールドで蚊と戦って幼虫を集め、拠点の区画で卵を孵化させ、自分の体力を血液として各蚊に与えます。十分に給餌された蚊は毎秒現金を支払い、同じ体力がフィールド戦闘であなたを生かします。",
+        "現金でより強い武器と体力ステーションのアップグレードを買い、武器の段階が上がるたびに手強い蚊と良い幼虫が解放されます。一度に1匹しか給餌できないため、体力回復が収入の主な上限になります。つまり基本ループは単純です。緑の円で現金を預け、現在のボトルネックをアップグレードし、新しい孵化を100%まで給餌しましょう。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Be Diao VIII"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "シミュレーション / タイクーン"
+        },
+        {
+          "label": "訪問数",
+          "value": "1000万以上"
+        },
+        {
+          "label": "ピーク CCU",
+          "value": "26.9K"
+        },
+        {
+          "label": "リリース",
+          "value": "2026 年 8 月 21 日"
+        },
+        {
+          "label": "更新",
+          "value": "2026 年 10 月 16 日"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Feed A Mosquito Wikiを探索",
+      "description": "初心者向けルート、卵の孵化、給餌メカニクス、武器価格、拠点アップグレード、ボスの体力ゲート、高速マネー戦略で蚊の帝国を築きましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Feed A Mosquito 初心者ガイド",
+          "description": "空の拠点から、十分に給餌した蚊、銀行への現金預け、最初の武器アップグレードまでの初回セッションルートをたどります。",
+          "href": "/guide/feed-a-mosquito-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "拠点の席に座って体力を回復します。これは血液としても使われる同じリソースです。"
+            },
+            {
+              "label": "2",
+              "detail": "初期装備の手で最初のフィールドの蚊を攻撃し、体力バーを空にします。"
+            },
+            {
+              "label": "3",
+              "detail": "落ちた幼虫を拾います。最初のフィールドではどのドロップもコモンです。"
+            },
+            {
+              "label": "4",
+              "detail": "卵を拠点の区画に置き、約7秒待って孵化させます。"
+            },
+            {
+              "label": "5",
+              "detail": "自分の血液で新しい蚊に給餌し、支払い率を上げます。"
+            },
+            {
+              "label": "6",
+              "detail": "緑の円の上を歩いて、蚊が生み出した現金を預けます。"
+            },
+            {
+              "label": "7",
+              "detail": "100%まで給餌して、蚊の毎秒現金の上限を解放します。"
+            },
+            {
+              "label": "8",
+              "detail": "5,000現金の靴を買い、最初のフィールドでの撃破を繰り返せるルートに変えます。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Feed A Mosquito コード",
+          "description": "現在のコード状況を確認し、新しい報酬がどこに現れるかを学び、コードが公開されたときの引き換え手順に従います。",
+          "href": "/items/feed-a-mosquito-rewards",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "なし",
+              "detail": "現在、Feed A Mosquitoで有効な公開コードはありません。"
+            },
+            {
+              "label": "ロブロックス",
+              "detail": "新しいコードの告知はRobloxの公式ゲームページで確認してください。"
+            },
+            {
+              "label": "アップデート",
+              "detail": "コンテンツアップデート後、新しいコードが公開されたらもう一度確認してください。"
+            },
+            {
+              "label": "引き換え",
+              "detail": "コードを正確にコピーし、ゲーム内のコード欄に入力して一度だけ送信してください。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Feed A Mosquito 蚊の成長ガイド",
+          "description": "卵のレア度、孵化タイマー、給餌率、成長、そして各拠点蚊の現金レートを理解しましょう。",
+          "href": "/mechanics/feed-a-mosquito-mosquito-growth",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "コモン",
+              "detail": "最初のフィールドの幼虫は約7秒で孵化し、序盤の収入基盤になります。"
+            },
+            {
+              "label": "アンコモン",
+              "detail": "有毒な孵化は給餌前から毎秒約6現金で始まることがあります。"
+            },
+            {
+              "label": "成長",
+              "detail": "給餌すると支払いが100%に近づき、蚊が目に見えて大きくなります。"
+            },
+            {
+              "label": "給餌",
+              "detail": "給餌できる蚊は一度に1匹だけなので、体力回復が収入の上限になります。"
+            },
+            {
+              "label": "卵",
+              "detail": "大きな幼虫ほど孵化に時間がかかりますが、より高い支払い上限に達します。"
+            },
+            {
+              "label": "現金",
+              "detail": "緑の円の上を歩いて、蚊が生み出すお金を回収しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Feed A Mosquito 武器ガイド",
+          "description": "初期の靴から電気ラケット、Robuxスプレーまで、武器の価格と各段階で解放されるターゲットを比較します。",
+          "href": "/items/feed-a-mosquito-upgrades-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "靴",
+              "detail": "5,000現金。最初に買える武器で、最初のフィールドでの撃破が速くなります。"
+            },
+            {
+              "label": "ほうき",
+              "detail": "35,000現金。体力2,000のフィールド蚊を倒せるダメージ。"
+            },
+            {
+              "label": "バット",
+              "detail": "150,000現金。ほうきの次の中間アップグレード。"
+            },
+            {
+              "label": "フライパン",
+              "detail": "500,000現金。主婦の蚊に備えたボス用武器。"
+            },
+            {
+              "label": "電気ラケット",
+              "detail": "電気ラケットは通常の蚊を一撃で倒して現金を稼ぎます。"
+            },
+            {
+              "label": "スプレー",
+              "detail": "1,000 Robux。YetiやFmanなどのボスに10,000,000ダメージ。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Feed A Mosquito ボスガイド",
+          "description": "序盤の蚊、体力2,000のゲート、主婦、YetiやFmanなどの終盤ボスに向けて体力、武器、回復を計画します。",
+          "href": "/mechanics/feed-a-mosquito-mosquito-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "YetiとFman — 1,000 Robuxのモスキートスプレーで倒せる高体力ボス。"
+            },
+            {
+              "label": "A",
+              "detail": "主婦の蚊 — 体力約500。フライパンとベンチを持参しましょう。"
+            },
+            {
+              "label": "B",
+              "detail": "体力2,000のフィールド蚊 — ほうきでダメージチェックを突破し、その後回復をアップグレードします。"
+            },
+            {
+              "label": "C",
+              "detail": "序盤のフィールド蚊 — 初期装備の手で倒せ、撃破ごとに幼虫をドロップします。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Feed A Mosquito 拠点アップグレード",
+          "description": "最も稼ぐ蚊を制限しているシステムを見つけて、次の体力ステーション、区画、給餌のアップグレードを選びましょう。",
+          "href": "/items/feed-a-mosquito-upgrades-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "椅子",
+              "detail": "開始時の体力ステーションは、給餌と戦闘に使う血液を補充します。"
+            },
+            {
+              "label": "トイレ",
+              "detail": "最初の15,000現金の回復ステップで体力回復量が上がります。"
+            },
+            {
+              "label": "ベンチ",
+              "detail": "毎秒40体力の段階で、より長い給餌セッションを支えます。"
+            },
+            {
+              "label": "ソファ",
+              "detail": "毎秒80体力なので、大きな蚊を倒しやすくなります。"
+            },
+            {
+              "label": "ベッド",
+              "detail": "ソファの次に来る後半の回復ステップ。"
+            },
+            {
+              "label": "区画",
+              "detail": "拠点の区画がいっぱいになると、拡張で蚊のスロットが増えます。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Feed A Mosquito 高速マネーガイド",
+          "description": "繰り返し可能な現金ルーティンを使いましょう。稼ぎを預け、毎回の給餌を完了し、進行を妨げる次のアップグレードを買い、より強い武器に再投資します。",
+          "href": "/progression/feed-a-mosquito-money-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "買い物の前に緑の円で預金しましょう。蚊はあなたの代わりに現金を預けてくれません。"
+            },
+            {
+              "label": "2",
+              "detail": "次の蚊を始める前に、新しい孵化を100%まで給餌します。"
+            },
+            {
+              "label": "3",
+              "detail": "5,000現金の靴を買い、ダメージが進行を妨げたら35,000現金のほうきを買います。"
+            },
+            {
+              "label": "4",
+              "detail": "給餌で回復が追いつかないほど体力を消耗するなら、15,000現金の体力ステーションの段階に切り替えます。"
+            },
+            {
+              "label": "5",
+              "detail": "ボスゲートでは、必要な武器と最良の回復段階をまとめて買います。"
+            },
+            {
+              "label": "6",
+              "detail": "毎秒300,000のプラトーに達したら電気ラケットに移り、スプレーはボス用に取っておきます。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Feed A Mosquito アップデートガイド",
+          "description": "武器、ボス、PVP、スペースエリア、オフライン収入など、V2とV3で追加されたコンテンツを追います。",
+          "href": "/community/feed-a-mosquito-latest-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "V2",
+              "detail": "V2アップデートでは新しい武器、ボス、オープンPVPゾーンが追加されました。"
+            },
+            {
+              "label": "V3",
+              "detail": "V3アップデートでは新しい武器、スペースエリア、オフライン収入が追加されました。"
+            },
+            {
+              "label": "スペース",
+              "detail": "スペースエリアは序盤のフィールドと拠点を超えて進行を広げます。"
+            },
+            {
+              "label": "オフライン",
+              "detail": "オフライン収入により、離れている間も蚊が生産を続けます。"
+            },
+            {
+              "label": "バランス",
+              "detail": "バランスパッチ後はショップ価格とアップグレード順を再確認しましょう。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Feed A Mosquito に関するよくある質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Feed A Mosquitoとは何ですか?",
+          "answer": "Feed A Mosquitoは、Be Diao VIIIによるRobloxのシミュレーション・タイクーンゲームです。幼虫を求めて蚊と戦い、拠点で卵を孵化させ、自分の体力を蚊に与え、毎秒生み出される現金を回収します。"
+        },
+        {
+          "question": "Feed A Mosquito で素早くお金を稼ぐにはどうすればよいですか?",
+          "answer": "Feed A Mosquitoでは、緑の円で現金を預け、新しい蚊をすべて100%まで給餌し、次の現金を最も稼ぐ蚊を妨げているアップグレードに使います。武器はより強いターゲットを解放し、体力ステーションの段階はより大きな給餌を完了できるようにします。"
+        },
+        {
+          "question": "Feed A Mosquito では卵と蚊の増殖はどのように行われますか?",
+          "answer": "Feed A Mosquitoの卵は、フィールドの蚊が落とす幼虫から生まれます。幼虫を拠点の区画に置き、コモンの卵が開くまで約7秒待ってから、新しい蚊を100%まで給餌します。給餌すると支払いが増え、モデルも目に見えて大きくなります。"
+        },
+        {
+          "question": "Feed A Mosquito で最初に何を買えばいいですか?",
+          "answer": "Feed A Mosquitoでは5,000現金の靴から始め、体力2,000のフィールド蚊が進行を妨げたら35,000現金のほうきを買います。給餌で回復が追いつかないほど体力を消耗するなら、15,000現金の体力ステーションの段階に進みます。"
+        },
+        {
+          "question": "Feed A Mosquitoにはコードがありますか？",
+          "answer": "Feed A Mosquitoには現在、有効な公開コードがありません。新しいコードはコンテンツアップデートの前後に登場するので、各パッチ後にRobloxの公式ゲームページとゲーム内メニューを確認してください。"
+        },
+        {
+          "question": "Feed A Mosquito でボスを倒すにはどうすればよいですか?",
+          "answer": "Feed A Mosquitoのボス戦では、武器のダメージと、給餌と戦闘のループを生き抜くだけの体力を組み合わせます。体力2,000のフィールド蚊にはほうき、体力約500の主婦にはフライパンとベンチ、YetiとFmanには1,000 Robuxのモスキートスプレーを使います。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Feed A Mosquitoをマスターする準備はできましたか？",
+      "description": "最初のボス戦から終盤の拠点アップグレードまで、コミュニティWikiが無料で最新のガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Feed A Mosquito ガイド",
+    "overviewDescription": "血液集め、卵の孵化、アップグレード、基本ゲームプレイ・ループを扱うFeed A Mosquito初心者ガイドから始めましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "Feed A Mosquito メカニクス",
+    "overviewDescription": "Feed A Mosquitoの血液給餌、蚊の成長、進化、卵の窃盗、アップグレード・システムの仕組みを学びましょう。"
+  },
+  "progression": {
+    "overviewTitle": "Feed A Mosquito 進行",
+    "overviewDescription": "Feed A Mosquitoのレベル上げ、マネー、ファーミング、最大レベルまでのルートに従い、蚊の帝国をより速く成長させましょう。"
+  },
+  "items": {
+    "overviewTitle": "Feed A Mosquito アイテム",
+    "overviewDescription": "Feed A Mosquitoの血液、卵、報酬、アップグレードと、各リソースの入手元を理解しましょう。"
+  },
+  "community": {
+    "overviewTitle": "Feed A Mosquito コミュニティ",
+    "overviewDescription": "Feed A Mosquitoのプレイヤーのヒント、Redditの議論、コミュニティによる最新アップデート情報を読みましょう。"
+  },
+  "videos": {
+    "overviewTitle": "Feed A Mosquito 動画",
+    "overviewDescription": "Feed A Mosquitoのゲームプレイ、ウォークスルー、血液ファーミング、巨大蚊のクリップを視聴しましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "利用できるガイドはまだありません。また後で確認してください！",
+    "notFoundTitle": "ページが見つかりません",
+    "notFoundDescription": "お探しのガイドは移動したか、まだ追加されていない可能性があります。",
+    "browseGuides": "ガイドを見る"
+  },
+  "footer": {
+    "aboutTitle": "Feed A Mosquito Wiki",
+    "about": "Feed A Mosquito Wikiは、ボス戦、蚊の卵、武器、拠点アップグレード、進行を扱うファン制作の独立系ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Feed A Mosquito Wiki。RobloxおよびBe Diao VIIIとは提携していません。",
+    "description": "Robloxの蚊タイクーン・シミュレーター：ボスと戦い、卵を集め、蚊に餌を与え、拠点をアップグレードします。",
+    "playGame": "RobloxでFeed A Mosquitoをプレイ",
+    "officialDiscord": "Roblox公式グループ",
+    "officialYoutube": "Feed A Mosquitoのゲームプレイ動画",
+    "vvBuilder": "Feed A Mosquito Wikiのガイド",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "mechanics": "メカニクス",
+    "progression": "進行",
+    "items": "アイテム"
+  }
+}

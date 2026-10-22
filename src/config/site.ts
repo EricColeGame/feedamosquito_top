@@ -1,3 +1,5 @@
+import { locales } from "@/i18n/routing";
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -32,6 +34,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.roblox.com/groups/793364468",
     youtube: "https://www.youtube.com/results?search_query=Feed+A+Mosquito+Roblox+Gameplay",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales,
   defaultLocale: "en",
 };

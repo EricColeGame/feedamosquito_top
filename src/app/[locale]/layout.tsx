@@ -1,4 +1,3 @@
-import { siteConfig } from "@/config/site";
 import type { Metadata } from "next";
 import Script from "next/script";
 import { Inter } from "next/font/google";
@@ -9,11 +8,12 @@ import { notFound } from "next/navigation";
 import { ThemeProvider } from "next-themes";
 import { JsonLd, SiteFooter, SiteHeader } from "@/components/site";
 import { routing } from "@/i18n/routing";
+import en from "@/locales/en.json";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://feedamosquito.top";
-const siteName = "Feed A Mosquito Wiki";
+type Messages = typeof en;
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -21,12 +21,14 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const messages = (await getMessages({ locale })) as Messages;
+  const siteName = messages.site.name;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
     title: { default: siteName, template: "%s" },
-    description: siteConfig.description,
+    description: messages.site.description,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -49,7 +51,8 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const { locale } = await params;
   setRequestLocale(locale);
   if (!hasLocale(routing.locales, locale)) notFound();
-  const messages = await getMessages({ locale });
+  const messages = (await getMessages({ locale })) as Messages;
+  const siteName = messages.site.name;
   const organization = {
     "@context": "https://schema.org",
     "@type": "Organization",
