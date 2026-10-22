@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the eight-step opening route: fill blood, beat a starter mosquito, hatch an egg, feed to 100%, bank cash, and buy the shoe."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Fastest Progression",
+          "description": "Push toward stronger field targets with a clear upgrade order for weapons, health regeneration, and feeding."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Fast Money",
+          "description": "Build a faster cash loop by banking often, finishing every feed, and reinvesting in the upgrade that blocks progress."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Feed A Mosquito."
+          "title": "First Boss Guide",
+          "description": "Prepare the health and weapon tiers needed for the 2,000-HP field mosquito, the housewife, Yeti, and Fman."
         }
       ]
     },
@@ -62,73 +62,67 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Mosquito Growth",
+        "Upgrade Order",
+        "Boss Gates"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "The eight-step opening route from an empty base to a fully fed earner and the first weapon.",
+          "href": "/guide/feed-a-mosquito-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Rewards & Codes",
+          "description": "Code status, redemption steps, and the places where new rewards appear.",
+          "href": "/items/feed-a-mosquito-rewards"
+        },
+        {
+          "badge": "Core",
+          "title": "Mosquito Growth",
+          "description": "Egg timers, feeding percentages, size changes, and the pay rate behind every hatch.",
+          "href": "/mechanics/feed-a-mosquito-mosquito-growth"
+        },
+        {
+          "badge": "Popular",
+          "title": "Upgrade Order",
+          "description": "Weapon prices, health-station tiers, and the buy order that clears each blocker.",
+          "href": "/items/feed-a-mosquito-upgrades-guide"
+        },
+        {
+          "badge": "Money",
+          "title": "Fast Money Guide",
+          "description": "A repeatable cash routine built around full feeds, bank runs, and smart reinvestment.",
+          "href": "/progression/feed-a-mosquito-money-guide"
+        },
+        {
+          "badge": "Mechanics",
+          "title": "Egg Hatching",
+          "description": "Turn every fallen larva into a base earner with the right hatch and feeding routine.",
+          "href": "/progression/feed-a-mosquito-egg-hatching"
+        },
+        {
+          "badge": "Popular",
+          "title": "Boss & Health Gates",
+          "description": "Health thresholds and weapon choices for the housewife, Yeti, and Fman fights.",
+          "href": "/mechanics/feed-a-mosquito-giant-mosquito"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Latest Updates",
+          "description": "The V2 and V3 content changes that affect weapons, zones, PVP, and offline income.",
+          "href": "/community/feed-a-mosquito-latest-updates"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Feed A Mosquito?",
       "paragraphs": [
-        "Feed A Mosquito is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Feed A Mosquito is a Roblox simulation-tycoon game from Be Diao VIII. You fight mosquitoes in the field for larvae, hatch eggs on your base plot, and feed each mosquito with your own health, which doubles as blood. A fully fed mosquito pays cash every second, while the same health pool keeps you alive in field fights.",
+        "Cash buys stronger weapons and health-station upgrades, and every new weapon tier opens tougher mosquitoes and better larvae. Feeding one mosquito at a time makes health regeneration the main limit on income, so the core loop is simple: bank cash at the green circle, upgrade the current bottleneck, and feed every new hatch toward 100%."
       ],
       "stats": [
         {
@@ -141,158 +135,280 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Simulation / Tycoon"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "10M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Peak CCU",
+          "value": "26.9K"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Release",
+          "value": "Aug 21, 2026"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Updated",
+          "value": "Oct 16, 2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Feed A Mosquito Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Build your mosquito empire with beginner routes, egg hatching, feeding mechanics, weapon prices, base upgrades, boss health gates, and fast-money strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "Feed A Mosquito Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/feed-a-mosquito-codes",
-          "displayType": "code-box",
+          "name": "Feed A Mosquito Beginner Guide",
+          "description": "Follow the first-session route from an empty base to a fully fed mosquito, a banked cash pickup, and the first weapon upgrade.",
+          "href": "/guide/feed-a-mosquito-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Sit at the base seat to refill health, the same resource used as blood."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Attack a first-field mosquito with the default hand until its health bar empties."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Pick up a fallen larva; every drop in the first field is common."
+            },
+            {
+              "label": "4",
+              "detail": "Place the egg on the base plot and wait about seven seconds for it to open."
+            },
+            {
+              "label": "5",
+              "detail": "Feed the new mosquito with your blood to raise its payout percentage."
+            },
+            {
+              "label": "6",
+              "detail": "Walk over the green circle to bank the cash your mosquitoes produced."
+            },
+            {
+              "label": "7",
+              "detail": "Feed to 100% to unlock the mosquito's maximum cash per second."
+            },
+            {
+              "label": "8",
+              "detail": "Buy the 5,000-cash shoe to turn first-field kills into a repeatable route."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/feed-a-mosquito-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Feed A Mosquito Codes",
+          "description": "Check the current code status, learn where new rewards appear, and follow the redemption routine when a code is released.",
+          "href": "/items/feed-a-mosquito-rewards",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "NONE",
+              "detail": "No active public codes are listed for Feed A Mosquito right now."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "ROBLOX",
+              "detail": "Open the official Roblox game page for new code announcements."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "UPDATES",
+              "detail": "Check again after a content update, when new codes are released."
+            },
+            {
+              "label": "REDEEM",
+              "detail": "Copy the exact code, enter it in the in-game code field, and submit once."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/feed-a-mosquito-tier-list",
-          "displayType": "tier-grid",
+          "name": "Feed A Mosquito Mosquito Growth Guide",
+          "description": "Understand egg rarity, hatch timers, feeding percentages, growth, and the cash rate behind every base mosquito.",
+          "href": "/mechanics/feed-a-mosquito-mosquito-growth",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Common",
+              "detail": "First-field larvae hatch in about seven seconds and form the early income base."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Uncommon",
+              "detail": "A venomous hatch can begin near 6 cash per second before feeding."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Growth",
+              "detail": "Feeding pushes payout toward 100% and visibly enlarges the mosquito."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Feeding",
+              "detail": "Only one mosquito feeds at a time, so health regeneration caps your income."
+            },
+            {
+              "label": "Eggs",
+              "detail": "Bigger larvae take longer to open and can reach stronger pay ceilings."
+            },
+            {
+              "label": "Cash",
+              "detail": "Walk over the green circle to collect the money your mosquitoes generate."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/feed-a-mosquito-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Feed A Mosquito Weapons Guide",
+          "description": "Compare weapon prices and the targets each tier unlocks, from the starter shoe to the electric swatter and Robux spray.",
+          "href": "/items/feed-a-mosquito-upgrades-guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Shoe",
+              "detail": "5,000 cash. The first buyable weapon and a faster start on first-field kills."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Broom",
+              "detail": "35,000 cash. Enough damage to clear a 2,000-HP field mosquito."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Bat",
+              "detail": "150,000 cash. A mid-tier upgrade after the broom."
+            },
+            {
+              "label": "Frying Pan",
+              "detail": "500,000 cash. The boss-ready weapon for the housewife mosquito."
+            },
+            {
+              "label": "Swatter",
+              "detail": "Electric swatter one-shots regular mosquitoes for cash."
+            },
+            {
+              "label": "Spray",
+              "detail": "1,000 Robux. 10,000,000 damage for bosses such as Yeti and Fman."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/feed-a-mosquito-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Feed A Mosquito Boss Guide",
+          "description": "Plan health, weapons, and regeneration for starter mosquitoes, the 2,000-HP gate, the housewife, and late bosses such as Yeti and Fman.",
+          "href": "/mechanics/feed-a-mosquito-mosquito-upgrades",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Yeti and Fman — high-health bosses that fall to the 1,000-Robux mosquito spray."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Housewife mosquito — roughly 500 health; bring the frying pan and a bench."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "2,000-HP field mosquito — clear the damage check with the broom, then upgrade regen."
+            },
+            {
+              "label": "C",
+              "detail": "Starter field mosquitoes — the default hand works and each kill drops a larva."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/feed-a-mosquito-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Feed A Mosquito Base Upgrades",
+          "description": "Choose the next health-station, plot, and feeding upgrade by finding the system that limits your highest-paying mosquito.",
+          "href": "/items/feed-a-mosquito-upgrades-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Chair",
+              "detail": "The starting health station refills the blood used for feeding and combat."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Toilet",
+              "detail": "The first 15,000-cash regeneration step raises health recovery."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Bench",
+              "detail": "A 40 health-per-second tier that supports longer feeding sessions."
+            },
+            {
+              "label": "Couch",
+              "detail": "80 health per second makes large mosquitoes easier to finish."
+            },
+            {
+              "label": "Bed",
+              "detail": "A later regeneration step that follows the couch."
+            },
+            {
+              "label": "Plot",
+              "detail": "Expansion adds mosquito slots once the base plot is full."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Feed A Mosquito Fast Money Guide",
+          "description": "Use a repeatable cash routine: bank earnings, finish every feed, buy the next blocker upgrade, and reinvest into stronger weapons.",
+          "href": "/progression/feed-a-mosquito-money-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Bank at the green circle before shopping; mosquitoes do not deposit cash for you."
+            },
+            {
+              "label": "2",
+              "detail": "Feed every new hatch to 100% before starting another mosquito."
+            },
+            {
+              "label": "3",
+              "detail": "Buy the 5,000 shoe, then the 35,000 broom when damage blocks progress."
+            },
+            {
+              "label": "4",
+              "detail": "Switch to the 15,000 health-station step when feeding drains faster than you recover."
+            },
+            {
+              "label": "5",
+              "detail": "At a boss gate, buy the required weapon and the best regeneration tier together."
+            },
+            {
+              "label": "6",
+              "detail": "At the 300,000-per-second plateau, move to the electric swatter and reserve the spray for bosses."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Feed A Mosquito Update Guide",
+          "description": "Track the content added across V2 and V3, including weapons, bosses, PVP, the space area, and offline earnings.",
+          "href": "/community/feed-a-mosquito-latest-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "V2",
+              "detail": "Update V2 added new weapons, a boss, and an open PVP zone."
+            },
+            {
+              "label": "V3",
+              "detail": "Update V3 added new weapons, a space area, and offline earnings."
+            },
+            {
+              "label": "Space",
+              "detail": "The space area expands progression beyond the starting field and base."
+            },
+            {
+              "label": "Offline",
+              "detail": "Offline earnings let your mosquitoes keep producing while you are away."
+            },
+            {
+              "label": "Balance",
+              "detail": "Recheck shop prices and upgrade order after a balance patch."
             }
           ]
         }
@@ -304,23 +420,27 @@
       "items": [
         {
           "question": "What is Feed A Mosquito?",
-          "answer": "Feed A Mosquito is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Feed A Mosquito is a Roblox simulation-tycoon game from Be Diao VIII. You fight mosquitoes for larvae, hatch eggs at your base, feed the mosquitoes with your own health, and collect the cash they generate every second."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you make money fast in Feed A Mosquito?",
+          "answer": "In Feed A Mosquito, bank cash at the green circle, feed every new mosquito to 100%, and spend the next batch of cash on the upgrade that is blocking your highest-paying mosquito. Weapons open stronger targets, while health-station tiers let you finish larger feeds."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do eggs and mosquito growth work in Feed A Mosquito?",
+          "answer": "Feed A Mosquito eggs come from larvae dropped by field mosquitoes. Place a larva on your base plot, wait about seven seconds for a common egg to open, then feed the new mosquito toward 100%. Feeding raises its payout and makes the model visibly larger."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What should I buy first in Feed A Mosquito?",
+          "answer": "Start with the 5,000-cash shoe in Feed A Mosquito, then buy the 35,000-cash broom when a 2,000-HP field mosquito blocks progress. Move to the 15,000-cash health-station step when feeding drains your health faster than you can recover."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Feed A Mosquito have codes?",
+          "answer": "Feed A Mosquito has no active public codes right now. New codes appear around content updates, so check the official Roblox game page and the in-game menu after each patch."
+        },
+        {
+          "question": "How do you beat bosses in Feed A Mosquito?",
+          "answer": "Boss fights in Feed A Mosquito combine weapon damage with enough health to survive the feed and fight loop. Use the broom for the 2,000-HP field mosquito, the frying pan plus a bench for the roughly 500-health housewife, and the 1,000-Robux mosquito spray for Yeti and Fman."
         }
       ]
     },
