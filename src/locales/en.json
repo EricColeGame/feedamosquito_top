@@ -6,7 +6,16 @@
     "description": "Your complete Feed A Mosquito guide on Roblox: beginner tips, boss fights, eggs, weapons, upgrades, codes, and progression.",
     "legalNotice": "Non-official fan wiki. Not affiliated with Roblox or Be Diao VIII."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "items": "Items",
+    "community": "Community",
+    "videos": "Videos",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Feed A Mosquito Wiki - Codes, Guide & Bosses",
@@ -23,7 +32,7 @@
         "Oct 16, 2026 Updated"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Boss Guides",
+      "secondaryCta": "Mechanics Guide",
       "tertiaryCta": "Play on Roblox",
       "videoLabel": "Gameplay Guide"
     },
@@ -451,7 +460,30 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Feed A Mosquito Guides",
+    "overviewDescription": "Start with Feed A Mosquito beginner guides covering blood collection, egg hatching, upgrades, and the core gameplay loop."
+  },
+  "mechanics": {
+    "overviewTitle": "Feed A Mosquito Mechanics",
+    "overviewDescription": "Learn how blood feeding, mosquito growth, evolution, egg stealing, and upgrade systems work in Feed A Mosquito."
+  },
+  "progression": {
+    "overviewTitle": "Feed A Mosquito Progression",
+    "overviewDescription": "Follow Feed A Mosquito leveling, money, farming, and max-level routes to grow your mosquito empire faster."
+  },
+  "items": {
+    "overviewTitle": "Feed A Mosquito Items",
+    "overviewDescription": "Understand blood, eggs, rewards, and upgrades in Feed A Mosquito and where each resource comes from."
+  },
+  "community": {
+    "overviewTitle": "Feed A Mosquito Community",
+    "overviewDescription": "Read Feed A Mosquito player tips, Reddit discussions, and the latest update notes from the community."
+  },
+  "videos": {
+    "overviewTitle": "Feed A Mosquito Videos",
+    "overviewDescription": "Watch Feed A Mosquito gameplay, walkthroughs, blood-farming runs, and giant mosquito clips."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -482,10 +514,10 @@
     "officialYoutube": "Feed A Mosquito Gameplay Videos",
     "vvBuilder": "Feed A Mosquito Wiki Guides",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "items": "Items"
   }
 }

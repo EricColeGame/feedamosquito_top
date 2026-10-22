@@ -237,39 +237,59 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  guide: "Guides",
+  mechanics: "Mechanics",
+  progression: "Progression",
+  items: "Items",
+  community: "Community",
+  videos: "Videos",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  guide: "ガイド",
+  mechanics: "ゲームメカニクス",
+  progression: "進行",
+  items: "アイテム",
+  community: "コミュニティ",
+  videos: "動画",
+};
+
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Guías",
+  mechanics: "Mecánicas",
+  progression: "Progresión",
+  items: "Objetos",
+  community: "Comunidad",
+  videos: "Vídeos",
+};
+
+const GROUP_TITLES_PT: Record<string, string> = {
+  guide: "Guias",
+  mechanics: "Mecânicas",
+  progression: "Progressão",
+  items: "Itens",
+  community: "Comunidade",
+  videos: "Vídeos",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  pt: GROUP_TITLES_PT,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  es: "Resumen",
+  pt: "Visão geral",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "mechanics", "progression", "items", "community", "videos",
 ];
 
 /**
