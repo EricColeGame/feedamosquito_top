@@ -22,13 +22,14 @@ export const siteConfig: SiteConfig = {
   name: "Feed A Mosquito Wiki",
   shortName: "Feed A Mosquito",
   logoText: "F",
-  tagline: "Guides, Codes, Bosses & Upgrades",
+  tagline: "Codes, Bosses, Eggs, Weapons & Upgrades",
   description: "Your complete Feed A Mosquito guide on Roblox: beginner tips, boss fights, eggs, weapons, upgrades, codes, and progression.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://feedamosquito.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://feedamosquito.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@feedamosquito.top",
   gameUrl: "https://www.roblox.com/games/125310131519813/Feed-A-Mosquito",
   heroVideoId: "SpZxd0VzKA4", // Feed A Mosquito full gameplay guide
   social: {
+    discord: "https://www.roblox.com/groups/793364468",
     youtube: "https://www.youtube.com/results?search_query=Feed+A+Mosquito+Roblox+Gameplay",
   },
   locales: ["en", "es", "pt", "de", "fr"],
